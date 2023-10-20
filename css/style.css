@@ -122,7 +122,7 @@ img {
   background-color: #2e2f42;
   margin-right: auto;
   margin-left: auto;
-  padding-bottom: 48px;
+  margin-bottom: 48px;
   max-width: 496px;
 }
 
@@ -172,7 +172,6 @@ img {
 .goals-menu {
   display: flex;
   justify-content: center;
-  margin-bottom: 120px;
   gap: 24px;
 }
 .goals-menu-item {
@@ -204,7 +203,6 @@ img {
   text-transform: capitalize;
   text-align: center;
   color: #2e2f42;
-  padding-top: 120px;
   margin-bottom: 72px;
   margin-right: auto;
   margin-left: auto;
@@ -250,7 +248,6 @@ img {
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
-  padding-top: 120px;
   margin-bottom: 72px;
 }
 .portfolio-menu {
