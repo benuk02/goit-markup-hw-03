@@ -67,6 +67,9 @@ img {
 .contact-page {
   font-style: normal;
 }
+.menu-item {
+  padding: 24px 0;
+}
 
 /* Logo */
 
@@ -113,9 +116,10 @@ img {
 /* Nav */
 
 /* Title and button */
+
 .hero {
   background-color: #2e2f42;
-  padding: 188px;
+  padding: 118px 0;
 }
 .hero-title {
   font-size: 56px;
@@ -189,6 +193,7 @@ img {
   line-height: 1.2;
   text-transform: capitalize;
   color: #2e2f42;
+  margin-bottom: 8px;
 }
 .goals-text {
   color: #434455;
