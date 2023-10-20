@@ -90,6 +90,7 @@ img {
   display: flex;
   gap: 40px;
   padding: 24px 0;
+  
 }
 
 .menu-list {
@@ -103,9 +104,7 @@ img {
 .menu-link-special:focus {
   color: #404bbf;
 }
-.menu-item {
-  padding: 24px 0;
-}
+
 .contact-menu-link {
   color: #434455;
 }
@@ -119,7 +118,7 @@ img {
 
 .hero {
   background-color: #2e2f42;
-  padding: 118px 0;
+  padding: 188px 0;
 }
 .hero-title {
   font-size: 56px;
